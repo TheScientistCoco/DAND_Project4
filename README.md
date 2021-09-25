@@ -1,2 +1,2 @@
 # DAND_Project4
-Analyze Twitter Data
+Udacity Data Analyst Nanodegree Project 4: Analyze Twitter Data
