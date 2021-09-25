@@ -1,0 +1,11 @@
+(1) For the third data source, tweet_json.txt, I showed the complete code that helps download the data via API to the tweet-json.txt file.
+
+(2) There are only two tidiness issues (merging the three data sets in one, combining the columns doggo, puppo, pupper, floofer into a single column), I corrected them to the proper list.
+
+(3) I added the Define/Code/Test framework for the data cleaning process. I used multiple Define/Code/Test headers for each of the quality and tidiness issues.
+
+(4) For dog stage, there are some rows with multiple dog stages, I adopted the suggestion and included both stages in the stage column, separated by comma.
+
+(5) I update one visualisation wherever dog stage is used (average rating vs. stage).
+
+(6) In the act report I updated two figures with dog stage (from No.5).
